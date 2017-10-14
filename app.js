@@ -57,6 +57,5 @@ client.login(bot.token, err => {
   if(err) console.error(err);
 });
 
-/*
-  Invite Link: https://discordapp.com/oauth2/authorize?client_id=360572958927880202&scope=bot&permissions=8
-*/
+// John's a bitch, make sure to spam him with his discord tag jwicker6#6091
+// Make sure it's real hurtful words, he's one tough guy.
