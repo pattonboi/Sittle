@@ -17,5 +17,4 @@ async def greet(ctx):
 @bot.command()
 async def finger(ctx):
     await ctx.send(":middle_finger:")
-    
-bot.run('NDY5Njk2MzYzOTAzMzIwMDY1.DjLejw.EARGaWtP1MgFyFyg1POHmxs2FmY')
+
