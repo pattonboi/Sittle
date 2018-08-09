@@ -1,2 +1,2 @@
 # PattonBot
-smh my smh
+ummm, just use my bot xdd
