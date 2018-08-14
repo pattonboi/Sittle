@@ -1,2 +1,2 @@
 # PattonBot
-ummm, just use my bot xdd
+ummm, just use my bot xdd **when it's available**
