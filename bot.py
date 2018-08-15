@@ -1,20 +1,23 @@
 import discord
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='p)')
+bot = commands.Bot(command_prefix='j!')
 
-@bot.event
-async def on_ready():
-    print('Logged in as')
-    print(bot.user.name)
-    print(bot.user.id)
-    print('------')
+@bot.command()
+async def ping(ctx):
+	await ctx.send("Pinged by <@" + message.author.id + ">!")
 
 @bot.command()
 async def greet(ctx):
     await ctx.send(":smiley: :wave: Hello, there!")
-    
+
 @bot.command()
 async def finger(ctx):
     await ctx.send(":middle_finger:")
+
+@bot.command()
+async def dances(ctx):
+    await ctx.send("https://media.discordapp.net/attachments/468970691501359107/476878885133221898/orange_justice.gif")
+
+
 
