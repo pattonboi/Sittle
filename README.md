@@ -1,4 +1,6 @@
-# PattonBot
+# Sittle!
+(./photo.jpg)
+<br>
 ummm, just use my bot xdd **when it's available**
 <br>
 here's a beta for the bot, i guess. it will be a moderation bot once i figure out this damn documentation. 
