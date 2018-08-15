@@ -1,5 +1,5 @@
 # Sittle!
-(./photo.jpg)
+(https://github.com/pattonboi/Sittle/photo.jpg)
 <br>
 ummm, just use my bot xdd **when it's available**
 <br>
