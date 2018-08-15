@@ -4,14 +4,6 @@ from discord.ext import commands
 bot = commands.Bot(command_prefix='j!')
 
 @bot.command()
-async def ping(ctx):
-	await ctx.send("Pinged by <@" + message.author.id + ">!")
-
-@bot.command()
-async def greet(ctx):
-    await ctx.send(":smiley: :wave: Hello, there!")
-
-@bot.command()
 async def finger(ctx):
     await ctx.send(":middle_finger:")
 
